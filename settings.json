@@ -1,0 +1,18 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Packages/aura-theme-soft.tmTheme",
+	"word_wrap": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 11,
+	"font_face": "Jetbrains Mono",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"translate_tabs_to_space": true,
+	"index_files": true,
+}
